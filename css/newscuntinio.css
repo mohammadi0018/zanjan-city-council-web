@@ -1,0 +1,72 @@
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+#newscontenio {
+	width: 617px;
+	background-image: url(../images/contenio.gif);
+	background-repeat: repeat-y;
+	font-family: tahoma;
+	font-size: 12px;
+	color: #333;
+	line-height: 20px;
+	text-align: justify;
+}
+#newscontenio a {
+	font-family: tahoma;
+	line-height: 10px;
+	color: #333;
+}
+
+#newscontenio a:hover {
+	font-weight: bold;
+	color: #820205;
+}
+
+.imagetable {
+	background-image: url(../images/contenioup.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+	height: 52px;
+	font-family: "b titr";
+	font-size: 16px;
+	color: #FFF;
+	text-align: right;
+	padding-top: 5px;
+	padding-right: 15px;
+	direction:rtl;
+}
+.textnews {
+	font-family: tahoma;
+	font-size: 12px;
+	line-height: 20px;
+	color: #333;
+	direction:rtl;
+	text-align: justify;
+	padding: 20px;
+}
+.text {
+	font-family: B nazanin;
+	font-size: 13px;
+	color: #666;
+	padding-right: 10px;
+	direction: rtl;
+}
+.texttitr {
+	font-family: "b titr";
+	font-size: 12px;
+	direction:rtl;
+}
+.tabalebutton {
+	background-image: url(../images/titrkhabarbutton.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}

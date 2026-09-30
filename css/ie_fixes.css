@@ -1,0 +1,42 @@
+/* =Internet Explorer Fixes
+----------------------------------------------------------------------*/
+.hoverbox{
+	margin-left:10px;
+}
+
+.fieldset-title{
+	width:337px
+}
+
+.fieldset-title1{
+	width:240px;
+	margin-left:80px;
+}
+
+.fieldset-title2{
+	width:250px;
+}
+
+.hoverbox a
+{
+	position: relative;
+}
+
+.hoverbox a:hover
+{
+	display: block;
+	font-size: 100%;
+	z-index: 1;
+}
+
+.hoverbox a:hover .preview
+{
+	top: -20px;
+	left: -15px;
+}
+
+.hoverbox li
+{
+	position: static;
+}
+

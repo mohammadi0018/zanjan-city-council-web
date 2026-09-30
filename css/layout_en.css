@@ -1,0 +1,233 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#333;
+	margin:0;
+	padding:0;
+}
+
+body{
+	color:#333333;
+	background:url(../images/en/bg.jpg) repeat-x;
+}
+
+a { 
+	color:#FF9900;
+	text-decoration:none;
+}
+
+a:hover { 
+	text-decoration: none;
+	color:#FFCC00;
+}
+
+a:focus { background-color: yellow; }
+a:active { color: red; }
+img { border:0; }
+.clearer { clear:both;font-size:1px;line-height:1px; }
+.hide { display:none; }
+
+#wrapper{
+	width:800px;
+	margin:0 auto;
+	clear:both;
+	background:#ffd500;
+}
+
+
+/*---------------------- start header ----------------------*/
+
+#c-left{
+	width:40px;
+	height:122px;
+	background:url(../images/en/cerv-left.jpg) no-repeat #FFF;
+	float:left;
+}
+
+#logo{
+	width:141px;
+	height:122px;
+	background:url(../images/en/logo.jpg) no-repeat #FC0;
+	float:left;
+}
+
+#right-header{
+	width:579px;
+	height:122px;
+	background:url(../images/en/header.jpg) repeat-x #FC0;
+	float:left;
+}
+
+#c-right{
+	width:40px;
+	height:122px;
+	background:url(../images/fa/cerv-right.jpg) no-repeat #FFF;
+	float:right;
+}
+
+.lan{
+	margin-top:63px;
+}
+
+
+/*--------------*/
+/*---- menu ----*/
+/*--------------*/
+
+
+#menu{
+	margin:90px 20px 0;
+	clear:both;
+}
+
+#menu a{
+	width:91px;
+	height:17px;
+	font-size:11px;
+	background:url(../images/en/bottum.jpg) no-repeat #FFFFC1;
+	text-decoration:none;
+	display:inline-block;
+	margin-left:4px;
+	color:#000;
+	padding:2px 0 0 15px;
+}
+
+#menu a:hover{
+	widows:91px;
+	height:17px;
+	background:url(../images/en/bottum-a.jpg) no-repeat #FFFFC1;
+	color:#FF6600;
+}
+
+
+/*-- end header --*/
+
+
+
+
+/*---------------------- start main ----------------------*/
+#main{
+	background:#0F9;
+	clear:both;
+}
+
+#middle{
+	width:517px;
+	height:390px;
+	background:#FFF;
+	margin-left:3px;
+	padding:15px;
+	position:absolute;
+	overflow:auto;
+	float:left;
+}
+
+#right-flash{
+	height:420px;
+	width:250px;
+	background:#FFF;
+	float:right;
+}
+
+.message{
+	vertical-align:top;
+}
+
+.right{
+	text-align:right;
+}
+
+#icon-mail{
+	float:right;
+}
+
+#form-contact{
+	float:left;
+}
+
+.space{
+	line-height:18px;
+}
+
+#form-order{
+	float:left;
+}
+
+#icon-order{
+	float:right;
+}
+
+.space-products{
+	margin-bottom:20px;
+}
+/*-- end header --*/
+
+
+
+
+/*---------------------- start black line ----------------------*/
+#black-line{
+	background:#000;
+	clear:both;
+}
+
+#hem{
+	width:78px;
+	height:9px;
+	text-align:left;
+	background:url(../images/en/hem.jpg) no-repeat #000;
+	clear:both;
+}
+
+/*-- end black line --*/
+
+
+
+
+/*---------------------- start footer ----------------------*/
+
+#footer{
+	background:#FFF;
+	padding:5px;
+	clear:both;
+}
+
+#footer a{
+	font-size:9px;
+	text-decoration:none;
+	color:#003366;
+}
+
+#footer a:hover{
+	color:#FF9900;
+}
+
+#copy-right{
+	font-size:9px;
+	float:left;
+	padding:0 40px;
+	margin-right:40px;
+}
+
+#design{
+	font-size:9px;
+	float:left;
+}
+
+.title-about{
+	clear:both;
+	direction:ltr;
+}
+
+.middle-about{
+	clear:both;
+	direction:ltr;
+}
+
+/*-- end footer --*/

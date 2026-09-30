@@ -1,0 +1,182 @@
+#news #titr #logosahamdaran {
+	visibility: visible;
+	width: 617px;
+	text-align: center;
+	float: left;
+	height: 200px;
+}
+body {
+    background-image:url(../images/back.gif);
+	background-repeat: repeat;
+	margin: 0px;
+	padding: 0px;
+}
+#main {
+	width:860px;
+	margin:0 auto;
+}
+.backmarquee {
+	font-family: tahoma;
+	font-size: 12px;
+	color: #333;
+	direction: rtl;
+	background-position: top;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+.backleft {
+	background-image: url(../images/rightheaderbuttomleft.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.menuright {
+	background-image: url(../images/rightheadermenuleft.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+
+#zaban {
+	height: 40px;
+	width: 850px;
+	font-family: tahoma;
+	font-size: 10px;
+	text-align: left;
+	vertical-align: bottom;
+	color: #636B71;
+	font-weight: bold;
+	padding-left: 10px;
+}
+#menu {
+	background-image: url(../images/backmenu.gif);
+	background-repeat: repeat-x;
+	height: 37px;
+	width: 860px;
+	font-family: tahoma;
+	font-size: 11px;
+	color: #FFF;
+}
+#menu a:hover {
+	color: #FFF;
+	font-weight: bold;
+}
+.text {
+	font-family: tahoma;
+	font-size: 12px;
+	color: #707578;
+	text-align: justify;
+	direction:rtl;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+#menu a {
+	color: #FFF;
+}
+
+#header {
+	height: 270px;
+	width: 860px;
+	background-image: url(../images/Header-oook-final.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+#serch {
+	width: 860px;
+	height: 30px;
+	font-family: tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #686F75;
+	direction:rtl;
+	text-align: left;
+}
+
+#footer {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #898888;
+	text-align: center;
+	width: 632px;
+	direction:rtl;
+	line-height: 17px;
+}
+
+#main #content {
+	width: 617px;
+	padding-left: 15px;
+	float: left;
+}
+#main #rightmenu {
+	width: 213px;
+	float: right;
+	padding-left: 15px;
+	font-family: tahoma;
+	font-size: 13px;
+	color: #FFF;
+	display: block;
+}
+#Amenu {
+	font-family: tahoma;
+	font-size: 13px;
+	color: #333;
+	width: 209px;
+	padding-right: 0px;
+	padding-left: 0px;
+	background-color: #BDBFC4;
+	margin-left: 2px;
+	direction: rtl;
+}
+#Amenu A {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #636B71;
+	text-align: right;
+	display: block;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	height: 17px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+#Amenu A:hover {
+	color: #FFF;
+	background-color: #707578;
+}
+#Amenu A.current {
+	color: #FFF;
+	background-color: #999;
+	font-size: 13px;
+}
+
+
+
+
+.tabletext {
+	font-family: tahoma;
+	font-size: 12px;
+	color: #595959;
+	margin-right: 5px;
+	direction:rtl;
+	text-align: justify;
+	margin-left: 5px;
+}
+a:link {
+	text-decoration: none;
+	color: #686F75;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: #A10428;
+	font-weight: normal;
+}
+a:active {
+	text-decoration: none;
+}

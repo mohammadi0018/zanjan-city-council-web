@@ -1,0 +1,64 @@
+@charset "utf-8";
+#admin {
+	font-family: tahoma;
+	color: #3F3F3F;
+	width: 531px;
+	background-image: url(../images/temadmin1.jpg);
+	background-repeat: no-repeat;
+	height: 376px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+#admin #login {
+	font-family: tahoma;
+	font-size: 12px;
+	color: #333;
+	width: 375px;
+	margin-right: 230px;
+	padding-top: 140px;
+	font-weight: normal;
+	line-height: 26px;
+}
+.forget {
+	font-family: tahoma;
+	font-size: 12px;
+	color: #666;
+	direction:rtl;
+	font-weight: bold;
+}
+.forget a {
+	color: #696969;
+	font-weight: bold;
+}
+
+.forget a:hover {
+	color: #802;
+	font-weight: bold;
+}
+
+
+
+a:link {
+	text-decoration: none;
+
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+
+}
+
+body {
+	background-image: url(../images/back.gif);
+	background-repeat: repeat;
+	margin: 0px;
+	padding-top: 105px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	direction:rtl;
+}

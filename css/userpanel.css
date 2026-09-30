@@ -1,0 +1,10 @@
+#mainpanel {
+	width: 617px;
+	background-image: url(../images/userpanel.gif);
+	background-position: top;
+	background-repeat: no-repeat;
+}
+.backuser {
+	background-image: url(../images/backuserpanel.gif);
+	background-repeat: repeat-y;
+}

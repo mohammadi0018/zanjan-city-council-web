@@ -1,0 +1,46 @@
+.erorr {
+	font-family: tahoma;
+	font-size: 12px;
+	line-height: 15px;
+	color: #666;
+	background-image: url(../images/Error.gif);
+	height: 35px;
+	width: 660px;
+	direction:rtl;
+
+
+	t
+; 			text-align: justify;
+	padding-top: 15px;
+	padding-right: 10px;
+}
+.information {
+	font-family: tahoma;
+	font-size: 12px;
+	line-height: 15px;
+	color: #666;
+	background-image: url(../images/information.gif);
+	height: 35px;
+	width: 660px;
+	direction:rtl;
+
+
+
+	t
+; 					text-align: justify;
+	padding-top: 15px;
+	padding-right: 10px;
+}
+.successful {
+	font-family: tahoma;
+	font-size: 12px;
+	line-height: 15px;
+	color: #666;
+	background-image: url(../images/successful.gif);
+	height: 35px;
+	width: 660px;
+	direction:rtl;
+	text-align: justify;
+	padding-top: 15px;
+	padding-right: 10px;
+}

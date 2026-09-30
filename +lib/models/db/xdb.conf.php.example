@@ -1,0 +1,10 @@
+<?php
+// Local development configuration.
+// Copy this file to xdb.conf.php and set your own database credentials.
+// Never commit real passwords or production credentials to GitHub.
+
+define("MYSQLHOST", "127.0.0.1");
+define("MYSQLUSER", "YOUR_DB_USER");
+define("MYSQLPASS", "YOUR_DB_PASSWORD");
+define("MYSQLDB", "YOUR_DB_NAME");
+?>

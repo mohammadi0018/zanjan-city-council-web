@@ -1,0 +1,1 @@
+function toggle_1(child){$('#'+child).toggle();};

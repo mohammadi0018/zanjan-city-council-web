@@ -1,0 +1,37 @@
+# ========== Third-party libraries ==========
+fckeditor/
++lib/smarty/
++lib/tests/
+node_modules/
+vendor/
+
+# ========== Project extra files ==========
+application/view/_notes/
+application/view/fa/Copy of *
+application/view/admin/index_old.php
+application/view/admin/index2.php
+ali.html
+content.html
+css/cgiweb/
+css/sym/
+flash/
+*.swf
+
+# ========== System files ==========
+.DS_Store
+Thumbs.db
+desktop.ini
+_notes/
+dwsync.xml
+
+# ========== Logs & temp ==========
+*.log
+*.tmp
+*.bak
+*.old
+.env
+
+# ========== Archives ==========
+*.zip
+*.rar
+*.7z
